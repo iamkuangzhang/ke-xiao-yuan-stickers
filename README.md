@@ -10,11 +10,11 @@
 
 ## 预览
 
-| 工作 | 互动 | 日常 | 咖啡时间 |
+| 工作 | 比心 | 吃瓜 | 咖啡 |
 | :---: | :---: | :---: | :---: |
 | <img src="stickers/工作.png" alt="工作" width="120"> | <img src="stickers/比心.png" alt="比心" width="120"> | <img src="stickers/吃瓜.png" alt="吃瓜" width="120"> | <img src="stickers/喝咖啡.png" alt="喝咖啡" width="120"> |
 
-| 开心 | 协作 | 回应 | 放松 |
+| 开心 | 开会 | 回应 | 摆烂 |
 | :---: | :---: | :---: | :---: |
 | <img src="stickers/开心.png" alt="开心" width="120"> | <img src="stickers/开会.png" alt="开会" width="120"> | <img src="stickers/没问题.png" alt="没问题" width="120"> | <img src="stickers/摆烂.png" alt="摆烂" width="120"> |
 
