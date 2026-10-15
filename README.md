@@ -6,17 +6,17 @@
 
 <p align="center">电子科技大学成都学院开放原子开源社团吉祥物「科小源」表情包</p>
 
-科小源是一套面向学习、开发、社团协作与日常交流的静态 PNG 表情包。本仓库收录 **88** 张原始尺寸表情，欢迎在遵守许可协议的前提下下载、分享和二次创作。
+科小源是一套面向学习、开发、社团协作与日常交流的静态 PNG 表情包。本项目的表情涵盖问候回应、学习备考、开发办公、会议协作、运动休闲和情绪表达等场景，帮助同学们在沟通中更轻松地表达状态与态度。素材会持续更新，欢迎在遵守许可协议的前提下下载、分享和二次创作。
 
 ## 预览
 
-| 问候 | 认可 | 学习 | 协作 |
+| 工作 | 互动 | 日常 | 咖啡时间 |
 | :---: | :---: | :---: | :---: |
-| <img src="stickers/你好.png" alt="你好" width="120"> | <img src="stickers/可以的.png" alt="可以的" width="120"> | <img src="stickers/学习.png" alt="学习" width="120"> | <img src="stickers/加油.png" alt="加油" width="120"> |
+| <img src="stickers/工作.png" alt="工作" width="120"> | <img src="stickers/比心.png" alt="比心" width="120"> | <img src="stickers/吃瓜.png" alt="吃瓜" width="120"> | <img src="stickers/喝咖啡.png" alt="喝咖啡" width="120"> |
 
-| 工作 | 休息 | 开心 | 晚安 |
+| 开心 | 协作 | 回应 | 放松 |
 | :---: | :---: | :---: | :---: |
-| <img src="stickers/开会.png" alt="开会" width="120"> | <img src="stickers/摸鱼.png" alt="摸鱼" width="120"> | <img src="stickers/真棒.png" alt="真棒" width="120"> | <img src="stickers/晚安.png" alt="晚安" width="120"> |
+| <img src="stickers/开心.png" alt="开心" width="120"> | <img src="stickers/开会.png" alt="开会" width="120"> | <img src="stickers/没问题.png" alt="没问题" width="120"> | <img src="stickers/摆烂.png" alt="摆烂" width="120"> |
 
 完整素材请见 [`stickers/`](stickers)。
 
@@ -26,7 +26,7 @@
 2. 从 `stickers/` 中选择需要的 PNG 文件。
 3. 在聊天软件、文档、演示或社团内容中使用。
 
-建议保留文件名，以便通过文字快速检索表情含义。`无文字.png` 可作为没有文字覆盖的基础形象，用于海报、活动物料或符合许可的衍生设计。
+建议保留文件名，以便通过文字快速检索表情含义。`无文字.png` 是不含文案的版本，适合需要自行添加文字、用于海报或活动物料的设计场景；二次创作时请遵守本仓库的许可要求。
 
 ## 目录说明
 
@@ -35,7 +35,7 @@
 ├── README.md        # 项目介绍与使用说明
 ├── LICENSE          # CC BY 4.0 许可说明
 ├── CONTRIBUTING.md  # 素材贡献约定
-└── stickers/        # 88 张 PNG 表情素材
+└── stickers/        # PNG 表情素材
 ```
 
 ## 许可与署名
